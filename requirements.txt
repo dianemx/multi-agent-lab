@@ -1,0 +1,17 @@
+# OpenAI Agents SDK
+openai-agents>=0.0.7
+
+# OpenAI Python client (includes Azure OpenAI support)
+openai>=1.60
+
+# For structured output / validation
+pydantic>=2.0
+
+# Environment variable management
+python-dotenv>=1.0
+
+# HTTP requests (used in tool examples)
+httpx>=0.27
+
+# Rich terminal output (optional, makes examples prettier)
+rich>=13.0
